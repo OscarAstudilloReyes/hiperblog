@@ -34,3 +34,18 @@ body {
   color: rgb(82, 82, 82);
 }
 
+
+ .piePagina {
+    margin: 0;
+    padding: 0;
+    -webkit-box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
+   
+}
+
+.piePagina #contact {
+    background-color: crimson;
+    color: rgb(255, 247, 247);
+   
+}
+
