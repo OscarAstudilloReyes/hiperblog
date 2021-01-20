@@ -17,3 +17,8 @@ body{
 .container h2 {
 color: cadetblue;
 }
+
+.container #tips  {
+    color: rgb(23, 117, 54);
+    text-align: left;
+}
