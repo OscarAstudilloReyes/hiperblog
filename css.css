@@ -6,7 +6,7 @@ body {
 }
 
 .cabecera {
-    background-color: crimson;
+    background-color: rgb(6, 121, 141);
     -webkit-box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     color: white;
@@ -30,7 +30,7 @@ body {
 }
 
 .container .post   {
-  color: rgb(61, 60, 60);
   padding: 1em;
+  color: rgb(82, 82, 82);
 }
 
