@@ -6,7 +6,11 @@ body {
 }
 
 .cabecera {
+<<<<<<< HEAD
     background-color: rgb(26, 6, 141);
+=======
+    background-color: rgb(3, 97, 31);
+>>>>>>> cabecera
     -webkit-box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     color: white;
