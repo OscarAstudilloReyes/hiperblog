@@ -1,19 +1,36 @@
-body{
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+.cabecera {
+    background-color: crimson;
+    -webkit-box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
+    color: white;
     margin: 0;
-    padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    padding: 0.5em;
+  }
+  
+  .cabecera h1 {
+    display: inline;
+    font-weight: bold;
+  }
+  .cabecera #tag {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+  }
+.container {
+  margin: 0 auto;
+  padding: 0;
+  border: 1px solid rgb(122, 122, 122);
+  width: 700px;
 }
 
-.container{
-    margin: 0 auto;
-    border: 1px solid  black;
-    width: 700px;
-    text-align: center;
-    padding: 1em;
-
+.container .post   {
+  color: rgb(61, 60, 60);
+  padding: 1em;
 }
 
-.container h2 {
-color: cadetblue;
-}
