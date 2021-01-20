@@ -6,7 +6,7 @@ body {
 }
 
 .cabecera {
-    background-color: rgb(6, 121, 141);
+    background-color: rgb(26, 6, 141);
     -webkit-box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     color: white;
