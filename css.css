@@ -26,7 +26,7 @@ body {
   margin: 0 auto;
   padding: 0;
   border: 1px solid rgb(122, 122, 122);
-  width: 700px;
+  width:70%;
 }
 
 .container .post   {
@@ -38,15 +38,40 @@ body {
  .piePagina {
     margin: 0;
     padding: 0;
+    /* display: inline; */
     -webkit-box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
     box-shadow: 4px 1px 21px 5px rgba(0, 0, 0, 0.5);
+    
    
 }
 
-.piePagina #contact {
-    background-color: crimson;
+#contact {
+    background-color: rgb(40, 33, 139);
     color: rgb(255, 247, 247);
     padding: 0.5em;
+    /* width: 20%; */
+    /* float: left; */
    
 }
 
+#contact-redes{
+  float: left;
+  margin-right: 350px;
+  margin-left: 130px;
+}
+
+
+#contact-acerca{
+  margin: 10px;
+}
+
+
+#social {
+  background-color: rgb(16, 0, 87);
+  color: rgb(255, 247, 247);
+  padding: 0.3em; 
+  text-align: center;
+  /* width: 200px; */
+ 
+  /* float: right; */
+}
