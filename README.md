@@ -3,7 +3,7 @@ Curso de git y github platzi
 >Se realiza el curso de git  github de plazti junto con fredy vega CEO de platzi
 >-oscar stiven astudillo reyes
 
-**Ceo de platzi ** Freddy Vega (@freddier)
+**Ceo de platzi ** Freddy Vega [https://github.com/freddier](https://github.com/freddier)
 
 #En este curso aprendimos
 - Todos los comandos de Git
